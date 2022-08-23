@@ -1,6 +1,6 @@
 - Hi, I’m Amandeep Kumar 🙋‍♂️👨‍💻
 - <img src="https://mechomotive.com/wp-content/uploads/2021/06/web2.jpg" style="height:300px; width:800px;"></img>
-- 👀 I’m interested in building a dynamic webpages and also to learn a full stack development.
+- 👀 I’m passionate in building a creating dynamic webpages and also to learn a full stack development.
 - 🌱 I’m currently learning a javaScript and making project using HTML, CSS and JS.
 
 <!---
