@@ -3,6 +3,9 @@
 - 👀 I’m passionate in building a creating dynamic webpages and also to learn a full stack development.
 - 🌱 I’m currently learning a javaScript and making project using HTML, CSS and JS.
 
+<a name="[custom_anchor_name](https://faint-mammal-292.notion.site/JavaScript-Notes-39ed510939034e7aa3d1d4cfad274ad5)"></a>
+<!-- <a https://faint-mammal-292.notion.site/JavaScript-Notes-39ed510939034e7aa3d1d4cfad274ad5 -->
+
 <!---
 Amandeep4567/Amandeep4567 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
