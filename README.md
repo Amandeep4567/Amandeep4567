@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amandeep4567&label=Profile%20views&color=0e75b6&style=flat" alt="amandeep4567" /> </p>
 
-- 🌱 I’m currently learning **NextJs**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Amandeep4567](https://github.com/Amandeep4567)
 
 - 💬 Ask me about **ReactJs, JavaScript**
 
-- 📫 How to reach me **amandeep_kumar@srmap.edu.in**
+- 📫 How to reach me **amankumaradk@gmail.com**
 
 - See my blogs here 
 
