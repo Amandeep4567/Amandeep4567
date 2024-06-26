@@ -5,11 +5,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Amandeep4567](https://github.com/Amandeep4567)
 
-- 💬 Ask me about **ReactJs, JavaScript**
-
 - 📫 How to reach me **amankumaradk@gmail.com**
 
-- See my blogs here 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
